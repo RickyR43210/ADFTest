@@ -1,0 +1,9 @@
+{
+	"name": "rickytestdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "60fba878-8b24-4146-8425-ef67e03d5b31",
+		"tenantId": "087ee49e-94e6-4278-a7ea-3e71275a3102"
+	}
+}
