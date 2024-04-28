@@ -1,0 +1,16 @@
+{
+	"name": "AzureSqlDBconnection",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDBConnection",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "EMP"
+		}
+	}
+}
